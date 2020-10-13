@@ -1,7 +1,6 @@
 import { StyleSheet } from 'react-native'
 
 export default StyleSheet.create({
-    // =============================================================================
     wrapper: {
     },
     slide1: {
@@ -83,7 +82,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea1: {
         color: '#020202',
@@ -147,7 +145,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea12: {
         color: '#020202',
@@ -186,7 +183,6 @@ export default StyleSheet.create({
     // STYLES TUTORIAL 3 ======================================================================
     homeTopBarArea3: {
         flexDirection: "row",
-        // flex: 0.6,
         paddingTop: 12,
         paddingBottom: 12,
         paddingLeft: 22,
@@ -194,12 +190,10 @@ export default StyleSheet.create({
         backgroundColor: "#ffffff",
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     homeTopBarAreaBack3: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'blue',
         width: 32,
         alignItems: 'flex-start',
         justifyContent: 'flex-start',
@@ -207,7 +201,6 @@ export default StyleSheet.create({
     homeTopBarAreaClose3: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'red',
         width: 32,
         alignItems: 'flex-end',
         justifyContent: 'flex-end',
@@ -230,7 +223,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea13: {
         color: '#020202',
@@ -271,7 +263,6 @@ export default StyleSheet.create({
     // STYLES TUTORIAL 4 ======================================================================
     homeTopBarArea4: {
         flexDirection: "row",
-        // flex: 0.6,
         paddingTop: 12,
         paddingBottom: 12,
         paddingLeft: 22,
@@ -279,12 +270,10 @@ export default StyleSheet.create({
         backgroundColor: "#ffffff",
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     homeTopBarAreaBack4: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'blue',
         width: 32,
         alignItems: 'flex-start',
         justifyContent: 'flex-start',
@@ -292,7 +281,6 @@ export default StyleSheet.create({
     homeTopBarAreaClose4: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'red',
         width: 32,
         alignItems: 'flex-end',
         justifyContent: 'flex-end',
@@ -315,7 +303,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea14: {
         color: '#020202',
@@ -356,7 +343,6 @@ export default StyleSheet.create({
     // STYLES TUTORIAL 5 ======================================================================
     homeTopBarArea5: {
         flexDirection: "row",
-        // flex: 0.6,
         paddingTop: 12,
         paddingBottom: 12,
         paddingLeft: 22,
@@ -364,12 +350,10 @@ export default StyleSheet.create({
         backgroundColor: "#ffffff",
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     homeTopBarAreaBack5: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'blue',
         width: 32,
         alignItems: 'flex-start',
         justifyContent: 'flex-start',
@@ -377,7 +361,6 @@ export default StyleSheet.create({
     homeTopBarAreaClose5: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'red',
         width: 32,
         alignItems: 'flex-end',
         justifyContent: 'flex-end',
@@ -400,7 +383,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea15: {
         color: '#020202',
@@ -441,7 +423,6 @@ export default StyleSheet.create({
     // STYLES TUTORIAL 6 ======================================================================
     homeTopBarArea6: {
         flexDirection: "row",
-        // flex: 0.6,
         paddingTop: 12,
         paddingBottom: 12,
         paddingLeft: 22,
@@ -449,12 +430,10 @@ export default StyleSheet.create({
         backgroundColor: "#ffffff",
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     homeTopBarAreaBack6: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'blue',
         width: 32,
         alignItems: 'flex-start',
         justifyContent: 'flex-start',
@@ -462,7 +441,6 @@ export default StyleSheet.create({
     homeTopBarAreaClose6: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'red',
         width: 32,
         alignItems: 'flex-end',
         justifyContent: 'flex-end',
@@ -485,7 +463,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea16: {
         color: '#020202',
@@ -526,7 +503,6 @@ export default StyleSheet.create({
     // STYLES TUTORIAL 7 ======================================================================
     homeTopBarArea7: {
         flexDirection: "row",
-        // flex: 0.6,
         paddingTop: 12,
         paddingBottom: 12,
         paddingLeft: 22,
@@ -534,12 +510,10 @@ export default StyleSheet.create({
         backgroundColor: "#ffffff",
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     homeTopBarAreaBack7: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'blue',
         width: 32,
         alignItems: 'flex-start',
         justifyContent: 'flex-start',
@@ -547,7 +521,6 @@ export default StyleSheet.create({
     homeTopBarAreaClose7: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'red',
         width: 32,
         alignItems: 'flex-end',
         justifyContent: 'flex-end',
@@ -570,7 +543,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea17: {
         color: '#020202',
@@ -611,7 +583,6 @@ export default StyleSheet.create({
     // STYLES TUTORIAL 8 ======================================================================
     homeTopBarArea8: {
         flexDirection: "row",
-        // flex: 0.6,
         paddingTop: 12,
         paddingBottom: 12,
         paddingLeft: 22,
@@ -619,12 +590,10 @@ export default StyleSheet.create({
         backgroundColor: "#ffffff",
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     homeTopBarAreaBack8: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'blue',
         width: 32,
         alignItems: 'flex-start',
         justifyContent: 'flex-start',
@@ -632,7 +601,6 @@ export default StyleSheet.create({
     homeTopBarAreaClose8: {
         flexDirection: 'row',
         flex: 3,
-        // backgroundColor: 'red',
         width: 32,
         alignItems: 'flex-end',
         justifyContent: 'flex-end',
@@ -655,7 +623,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea18: {
         color: '#020202',

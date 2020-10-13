@@ -22,7 +22,6 @@ export default StyleSheet.create({
         width: "100%",
         padding: 20,
         backgroundColor: '#c62825',
-        // alignItems: 'center',
     },
     TextArea1: {
         color: '#020202',

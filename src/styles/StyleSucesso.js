@@ -28,7 +28,6 @@ export default StyleSheet.create({
         backgroundColor: '#ffffff',
         width: "100%",
         alignItems: 'center',
-        // justifyContent: 'center',
     },
     TextArea1: {
         color: '#020202',

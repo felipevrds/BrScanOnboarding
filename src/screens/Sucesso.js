@@ -1,19 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { Text, View, Image, TouchableOpacity } from 'react-native'
 
 import StyleSucesso from '../styles/StyleSucesso'
 
 const Sucesso = ({ navigation }) => {
-
-    // ======================================================================
-    const [num, setNum] = useState(0)
-
-    const inc = () => setNum(num + 1)
-    const dec = () => setNum(num - 1)
-    // ======================================================================
-
-    const [inputCpf, setImputCpf] = useState('000.000.000-00');
-    const [valorCpf, setValorCpf] = useState(0);
 
     return (
         <>
