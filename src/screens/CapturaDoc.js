@@ -79,10 +79,10 @@ const Camera = ({ isVisible, onChangePhoto, onCloseCamera, navigation }) => {
                 <View style={StyleCapturaDoc.bordas}>
                     <Text style={StyleCapturaDoc.homeImageAreaText}>
                         Aperte o botão para captar a foto
-                        </Text>
-                    <Image source={require('../assets/images/IconClose.png')} />
-                    {/* <View ></View> */}
-                    {/* <Image source={require('../assets/images/IconLeft.png')} /> */}
+                    </Text>
+                    <TouchableOpacity onPress={() => navigation.navigate("EscolhaTipoDoc")}>
+                        <Image source={require('../assets/images/IconClose.png')} />
+                    </TouchableOpacity>
                 </View>
 
 
@@ -91,8 +91,8 @@ const Camera = ({ isVisible, onChangePhoto, onCloseCamera, navigation }) => {
                     <TouchableOpacity
 
                         onPress={() => navigation.navigate('Sucesso')}
-                        // onPress={() => this.props.navigation.navigate('Sucesso')}
-                    
+                    // onPress={() => this.props.navigation.navigate('Sucesso')}
+
                     >
                         <Image source={require('../assets/images/ButtonCaptura.png')} />
                     </TouchableOpacity>

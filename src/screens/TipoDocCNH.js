@@ -10,7 +10,9 @@ const EscolhaTipoDoc = ({ navigation }) => {
         <>
             <View style={StyleTipoDocCNH.homeTopBarArea}>
                 <View style={StyleTipoDocCNH.homeTopBarAreaBack}>
-                    <Image source={require('../assets/images/IconLeft.png')} />
+                    <TouchableOpacity onPress={() => navigation.navigate("Tutorial")}>
+                        <Image source={require('../assets/images/IconLeft.png')} />
+                    </TouchableOpacity>
                 </View>
             </View>
             <View style={StyleTipoDocCNH.homeImageArea}>
