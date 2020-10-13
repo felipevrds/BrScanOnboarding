@@ -77,7 +77,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose3}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea3}>
@@ -106,7 +106,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose4}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea4}>
@@ -135,7 +135,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose5}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea5}>
@@ -164,7 +164,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose6}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea6}>
@@ -193,7 +193,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose7}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea7}>
@@ -222,7 +222,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose8}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea8}>
@@ -251,7 +251,7 @@ export default class swiper extends Component {
               <Image source={require('../assets/images/IconLeftDark.png')} />
             </View>
             <View style={StyleTutorial.homeTopBarAreaClose3}>
-              <Image source={require('../assets/images/IconLeftDark.png')} />
+              <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
           </View>
           <View style={StyleTutorial.homeImageArea3}>

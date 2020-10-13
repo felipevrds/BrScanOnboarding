@@ -80,7 +80,7 @@ const Camera = ({ isVisible, onChangePhoto, onCloseCamera, navigation }) => {
                     <Text style={StyleCapturaDoc.homeImageAreaText}>
                         Aperte o botão para captar a foto
                         </Text>
-                    <Image source={require('../assets/images/IconLeft.png')} />
+                    <Image source={require('../assets/images/IconClose.png')} />
                     {/* <View ></View> */}
                     {/* <Image source={require('../assets/images/IconLeft.png')} /> */}
                 </View>

@@ -18,7 +18,7 @@ const Sucesso = ({ navigation }) => {
     return (
         <>
             <View style={StyleSucesso.homeTopBarArea}>
-                <Image source={require('../assets/images/IconLeftDark.png')} />
+                <Image source={require('../assets/images/IconCloseDark.png')} />
             </View>
             <View style={StyleSucesso.homeImageArea}>
                 <Image source={require('../assets/images/IconSucesso.png')} />
