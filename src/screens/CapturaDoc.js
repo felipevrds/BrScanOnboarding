@@ -80,7 +80,7 @@ const Camera = ({ isVisible, onChangePhoto, onCloseCamera, navigation }) => {
                     <Text style={StyleCapturaDoc.homeImageAreaText}>
                         Aperte o botão para captar a foto
                     </Text>
-                    <TouchableOpacity onPress={() => navigation.navigate("EscolhaTipoDoc")}>
+                    <TouchableOpacity onPress={() => navigation.navigate("TipoDocRG")}>
                         <Image source={require('../assets/images/IconClose.png')} />
                     </TouchableOpacity>
                 </View>
